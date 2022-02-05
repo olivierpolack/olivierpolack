@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @olivierpolack
-- 👀 I’m interested in software obviously
-- 🌱 I’m currently learning a bit of everything, starting from the basics of web developpement
-- 💞️ I’m looking to collaborate on any easy learning tools, especially anything related to kanji, hanzi, (asiatic) fonts. How do all those characters get displayed, input, and most important printed.
-- I am also currently enrolled in an Udacity Nanodegree program focused on AI product management. 
-- 📫 How to reach me : o.polack@gmail.com
+👋 Hi, I’m Olivier
 
-<!---
-olivierpolack/olivierpolack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m interested in software obviously. I worked as developper for a Japanese company called Nireco from 2001 to 2006, mainly in C++ through the Borland IDE. 
+
+I’m on the learning curve, as we all are.
+                                     Or are we? 
+  
+I’m interested in web developpement as well as Python.
+
+I am found of Japan, and its language, and also I have some basics of Chinese. I am especially inetrersting in anything related to kanji, hanzi, and the fonts used to dispaly ideograms. 
+
+I passed the Udacity Nanodegree program on AI product management in July 21, beacause I am curious about how AI works but also how AI products are brought to life.  
+
+- 📫 You can reach me here: o.polack@gmail.com
