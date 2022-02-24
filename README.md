@@ -11,4 +11,4 @@ I am found of Japan, and its language, and also I have some basics of Chinese. I
 
 I passed the Udacity Nanodegree program on AI product management in July 21, because I am curious about how AI works but also how AI products are brought to life.  
 
-- 📫 You can reach me here: o.polack@gmail.com
+- 📫 You can reach me here: opolack@gmail.com
