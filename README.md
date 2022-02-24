@@ -5,7 +5,7 @@ I’m interested in software obviously. I worked as developper for a Japanese co
 I’m on the learning curve, as we all are.
                                      Or are we? 
   
-I’m interested in web developpement as well as Python.
+I’m interested in web developpement as well as in Python programming language.
 
 I am found of Japan, and its language, and also I have some basics of Chinese. I am especially inetrersting in anything related to kanji, hanzi, and the fonts used to dispaly ideograms. 
 
